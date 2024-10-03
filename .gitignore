@@ -1,0 +1,6 @@
+/node_modules
+/mockData
+.env
+package-lock.json
+/models
+/controllers
